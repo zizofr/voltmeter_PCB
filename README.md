@@ -38,6 +38,7 @@ A compact digital voltmeter designed around a custom Printed Circuit Board (PCB)
 ├──view_2.png
 ├──top.png
 ├──bottom.png
+├──firmware.ino  # ATmega328P C++ source code
 ├── voltmeter.kicad_pcb  # KiCad PCB board layout source file
 ├── voltmeter.kicad_sch  # KiCad schematic design source file
 └── README.md            # Project documentation
